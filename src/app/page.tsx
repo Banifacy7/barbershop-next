@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <h1>
-          Попытка № 3 успешно запустился! <br /> Конфлик версии ключевых
+          Разворачивание проекта на Versel <br /> Конфлик версии ключевых
           технологии устранен.
         </h1>
         <Button variant="contained" color="primary">
